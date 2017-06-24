@@ -13,4 +13,4 @@
 |5|反復<br>(=PDCAサイクル)|:red_circle: **現在値**<br>コミュニケーションと体験を実際に展開してPDCAサイクルを回す。|
 
 ### PDCAサイクルフロー
-* [Wiki](https://github.com/AquaMeria/operation_cv-optimization.wiki.git)
+* [Wiki](https://github.com/AquaMeria/operation_cv-optimization/wiki/01.PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%95%E3%83%AD%E3%83%BC)
